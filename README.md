@@ -7,7 +7,7 @@
 
 ## Docker Image List
 
-1. `waychan23/pause:3.1` == `k8s.gcr.io/pause:3.1` 
+1. `waychan23/pause-amd64:3.1` == `k8s.gcr.io/pause-amd64:3.1` 
 2. `waychan23/k8s-dns-kube-dns-amd64:1.14.11` == `gcr.io/google_containers/k8s-dns-kube-dns-amd64:1.14.11`
 3. `waychan23/k8s-dns-sidecar-amd64:1.14.11` == `gcr.io/google_containers/k8s-dns-sidecar-amd64/tags/1.14.11`
 4. `waychan23/k8s-dns-dnsmasq-nanny-amd64:1.14.11` == `gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64:1.14.11`
@@ -20,3 +20,4 @@
 11. `waychan23/nvidia-gpu-device-plugin:08427340` == `k8s.gcr.io/nvidia-gpu-device-plugin@sha256:0842734032018be107fa2490c98156992911e3e1f2a21e059ff0105b07dd8e9e`
 12. `waychan23/google-containers_pause:2.0` == `gcr.io/google-containers/pause:2.0`
 13. `waychan23/ubuntu-nvidia-driver-installer:eea7309dc` == `gcr.io/google-containers/ubuntu-nvidia-driver-installer@sha256:eea7309dc4fa4a5c9d716157e74b90826e0a853aa26c7219db4710ddcd1ad8bc`
+14. `waychan23/hyperkube-amd64::v1.11.3` == `gcr.io/google-containers/hyperkube-amd64:v1.11.3`
