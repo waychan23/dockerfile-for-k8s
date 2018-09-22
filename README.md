@@ -18,5 +18,5 @@
 9. `waychan23/defaultbackend` == `gcr.io/google_containers/defaultbackend:1.4`
 10. `waychan23/kubernetes-dashboard-amd64:v1.10.0` == `gcr.io/google_containers/kubernetes-dashboard-amd64:v1.10.0`
 11. `waychan23/nvidia-gpu-device-plugin:08427340` == `k8s.gcr.io/nvidia-gpu-device-plugin@sha256:0842734032018be107fa2490c98156992911e3e1f2a21e059ff0105b07dd8e9e`
-12. []`waychan23/google-containers_pause:2.0` == `gcr.io/google-containers/pause:2.0`
-13. []`waychan23/ubuntu-nvidia-driver-installer:eea7309dc` == `gcr.io/google-containers/ubuntu-nvidia-driver-installer@sha256:eea7309dc4fa4a5c9d716157e74b90826e0a853aa26c7219db4710ddcd1ad8bc`
+12. `waychan23/google-containers_pause:2.0` == `gcr.io/google-containers/pause:2.0`
+13. `waychan23/ubuntu-nvidia-driver-installer:eea7309dc` == `gcr.io/google-containers/ubuntu-nvidia-driver-installer@sha256:eea7309dc4fa4a5c9d716157e74b90826e0a853aa26c7219db4710ddcd1ad8bc`
