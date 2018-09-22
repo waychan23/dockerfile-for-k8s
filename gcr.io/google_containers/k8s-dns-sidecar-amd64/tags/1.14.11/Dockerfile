@@ -1,1 +1,1 @@
-FROM gcr.io/google_containers/k8s-dns-sidecar-amd64/tags/1.14.11
+FROM gcr.io/google_containers/k8s-dns-sidecar-amd64:1.14.11
